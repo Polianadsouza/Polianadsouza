@@ -1,5 +1,5 @@
-<h1 align="center">👋 Olá, eu sou Poliana Souza</h1>
-<h3 align="center">💻 Estudante de Ciência da Computação, apaixonada por Desenvolvimento Web. </h3>
+<h2 align="center">👋 Olá, Bem vindos, eu sou a Poliana Souza</h2>
+<h4 align="center">💻 Estudante de Ciência da Computação, apaixonada por Desenvolvimento Web. </h4>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 🎓 Cursando **Ciência da Computação**
 - 🚀 Focada em **Desenvolvimento Web** (Front-end & Back-end)
-- 🌱 Atualmente estudando **Javascript**, **Lógica de programação**, **HTML, CSS** e **SQL**
+- 🌱 Atualmente estudando **Lógica de programação**, **Javascript**, **HTML, CSS** e **SQL**
 - ✨ Em busca de aprender, evoluir e contribuir com projetos que impactam positivamente a vida das pessoas.
 - 🤝 Aberta a colaborações em projetos legais e desafiadores!
 
@@ -37,12 +37,7 @@
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=polianadsouza&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=polianadsouza&show_icons=true&locale=en" alt="github-stats" />
-</p>
-
+  
 ---
 
 ## 🌐 Conecte-se comigo
@@ -59,5 +54,5 @@
 ---
 
 
-> Cada linha de código é uma nova possibilidade."*
+> "*Cada linha de código é uma nova possibilidade."*
 
