@@ -1,5 +1,5 @@
 <h2 align="center">👋 Olá, Bem vindos, eu sou a Poliana Souza</h2>
-<h4 align="center">💻 Estudante de Ciência da Computação, apaixonada por Desenvolvimento Web. </h4>
+<h4 align="center">💻 Estudante de Ciência da Computação, focada em Desenvolvimento Web. </h4>
 
 ---
 
