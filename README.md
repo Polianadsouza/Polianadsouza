@@ -1,19 +1,16 @@
 <h2 align="center">Poliana Souza</h2>
-<h4 align="center">Desenvolvedora em formação | Python • Backend • JavaScript • SQL</h4>
+<h4 align="center">Desenvolvedora | Python • Backend • JavaScript • SQL</h4>
 
 ---
 
 ## Perfil
 
-Atuo como desenvolvedora em formação com foco em backend, já com base prática em Python, JavaScript e SQL, desenvolvendo soluções voltadas à lógica de programação, manipulação de dados e construção de pequenas aplicações.
-
-Tenho experiência com a construção de scripts em Python para resolução de problemas, desenvolvimento de consultas SQL para análise de dados e criação de interfaces web simples com HTML, CSS e JavaScript. Também venho explorando conceitos de estruturação de sistemas e boas práticas de código. Estou evoluindo para atuar como desenvolvedora backend júnior, com foco em Python e construção de APIs, manipulação de dados e desenvolvimento de sistemas simples e escaláveis.
-
-Busco aprofundar conhecimentos em arquitetura de aplicações, boas práticas de desenvolvimento e integração entre sistemas.
+Atuo como desenvolvedora júnior com foco em backend, já com base prática em Python, JavaScript e SQL, desenvolvendo soluções voltadas à lógica de programação, manipulação de dados e construção de pequenas aplicações.
+Tenho experiência com a construção de scripts em Python para resolução de problemas, desenvolvimento de consultas SQL para análise de dados e criação de interfaces web simples com HTML, CSS e JavaScript. Também venho explorando conceitos de estruturação de sistemas e boas práticas de código. Estou evoluindo para atuar como desenvolvedora backend júnior, com foco em Python e construção de APIs, manipulação de dados e desenvolvimento de sistemas simples e escaláveis. Busco aprofundar conhecimentos em arquitetura de aplicações, boas práticas de desenvolvimento e integração entre sistemas.
 
 ---
 
-## O que já consigo desenvolver
+## Consigo desenvolver
 
 - Scripts em Python para automação, lógica e manipulação de dados  
 - Consultas SQL para filtragem, organização e análise de informações  
