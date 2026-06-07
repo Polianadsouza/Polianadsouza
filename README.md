@@ -5,28 +5,27 @@
 
 ## Perfil
 
-Atuo como desenvolvedora júnior com foco em backend, já com base prática em Python, JavaScript e SQL, desenvolvendo soluções voltadas à lógica de programação, manipulação de dados e construção de pequenas aplicações.
-Tenho experiência com a construção de scripts em Python para resolução de problemas, desenvolvimento de consultas SQL para análise de dados e criação de interfaces web simples com HTML, CSS e JavaScript. Também venho explorando conceitos de estruturação de sistemas e boas práticas de código. Estou evoluindo para atuar como desenvolvedora backend júnior, com foco em Python e construção de APIs, manipulação de dados e desenvolvimento de sistemas simples e escaláveis. Busco aprofundar conhecimentos em arquitetura de aplicações, boas práticas de desenvolvimento e integração entre sistemas.
+ Tenho como objetivo atuar como desenvolvedora backend júnior, com foco em Python, construção de APIs, manipulação de dados e desenvolvimento de sistemas simples e escaláveis. Busco evoluir em arquitetura de aplicações e boas práticas de desenvolvimento. Tenho experiência prática com lógica de programação, manipulação de dados e construção de pequenas aplicações funcionais. Também utilizo JavaScript, HTML e CSS em projetos web  para entender a estrutura de aplicações completas, além de trabalhar com SQL na criação de consultas para organização e análise de dados. 
 
 ---
 
-## Consigo desenvolver
+## O que já consigo desenvolver
 
 - Scripts em Python para automação, lógica e manipulação de dados  
-- Consultas SQL para filtragem, organização e análise de informações  
-- Aplicações web básicas utilizando HTML, CSS e JavaScript  
-- Solução de problemas lógicos com foco em clareza e eficiência  
+- Consultas SQL para filtragem e análise de informações  
+- Aplicações web simples com HTML, CSS e JavaScript  
+- Resolução de problemas lógicos com foco em clareza e eficiência  
 
 ---
 
-## Habilidades em evolução
+## Habilidades em evolução (nível júnior)
 
-- Estruturação de APIs simples em Python (Flask / FastAPI – em estudo)  
-- Organização de projetos com boas práticas (separação de lógica, módulos)  
+- Desenvolvimento de APIs simples com Python (Flask / FastAPI – em estudo)  
+- Organização de projetos com boas práticas de código  
 - Integração entre frontend e backend  
-- Uso de versionamento com Git e GitHub de forma consistente  
-- Melhoria contínua em algoritmos e estruturas de dados
-- 
+- Uso consistente de Git e GitHub  
+- Evolução em algoritmos e estruturas de dados  
+
 ---
 
 ## Tecnologias
@@ -35,22 +34,26 @@ Python • JavaScript • SQL • HTML • CSS • C# (.NET básico) • Git/Git
 
 ---
 
-## GitHub Activity
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polianadsouza&show_icons=true&hide=issues" />
+  <img src="https://streak-stats.demolab.com?user=polianadsouza" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polianadsouza&layout=compact" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=polianadsouza" />
-</p>
-
 ---
 
 ## Contato
 
-LinkedIn • Instagram
+<p align="center">
+  <a href="https://www.linkedin.com/in/poliana-dsouza/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/poliana_dsouza" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
