@@ -21,21 +21,15 @@
 
 ## Tecnologias
 
-Python • JavaScript • SQL • HTML • CSS • C# (.NET básico) • Git/GitHub
+Python • JavaScript • SQL • HTML • CSS • Git/GitHub
 
 ---
 
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=polianadsouza" />
+  <img src="https://streak-stats.demolab.com?user=polianadsouza&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polianadsouza&layout=compact" />
-</p>
-
----
 
 ## Contato
 
