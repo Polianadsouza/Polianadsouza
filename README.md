@@ -24,11 +24,8 @@
 Python • JavaScript • SQL • HTML • CSS • Git/GitHub
 
 ---
-
-## 📊 GitHub
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=polianadsouza&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=polianadsouza&hide_border=true&theme=github-light&card_width=450" />
 </p>
 
 ## Contato
