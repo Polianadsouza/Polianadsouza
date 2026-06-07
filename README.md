@@ -9,16 +9,7 @@
 
 ---
 
-## O que já consigo desenvolver
-
-- Scripts em Python para automação, lógica e manipulação de dados  
-- Consultas SQL para filtragem e análise de informações  
-- Aplicações web simples com HTML, CSS e JavaScript  
-- Resolução de problemas lógicos com foco em clareza e eficiência  
-
----
-
-## Habilidades em evolução (nível júnior)
+## Habilidades em evolução
 
 - Desenvolvimento de APIs simples com Python (Flask / FastAPI – em estudo)  
 - Organização de projetos com boas práticas de código  
