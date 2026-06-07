@@ -27,7 +27,7 @@ Python • JavaScript • SQL • HTML • CSS • Git/GitHub
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polianadsouza&layout=compact&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=polianadsouza&hide_border=true&theme=transparent" />
 </p>
 
 ## Contato
