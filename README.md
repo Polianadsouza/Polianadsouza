@@ -1,67 +1,59 @@
-<h2 align="center">Olá, eu sou a Poliana Souza</h2>
-<h4 align="center">Desenvolvedora em formação | Foco em Python e Desenvolvimento Web</h4>
+<h2 align="center">Poliana Souza</h2>
+<h4 align="center">Desenvolvedora em formação | Python • Backend • JavaScript • SQL</h4>
 
 ---
 
-## 🌟 Sobre mim
+## Perfil
 
-- 🎓 Estudante de Ciência da Computação  
-- 💻 Foco em desenvolvimento de software e soluções web  
-- 🐍 Estudando Python, com interesse em automação, backend e análise de dados  
-- 🌐 Experiência e prática com JavaScript, HTML, CSS e bancos de dados SQL  
-- ⚙️ Conhecimento em C# e .NET em evolução  
-- 📚 Em constante aprendizado com projetos práticos e estudo de boas práticas de programação  
-- 🤝 Interesse em colaborar em projetos que envolvam tecnologia, lógica e resolução de problemas reais  
+Atuo como desenvolvedora em formação com foco em backend, já com base prática em Python, JavaScript e SQL, desenvolvendo soluções voltadas à lógica de programação, manipulação de dados e construção de pequenas aplicações.
+
+Tenho experiência com a construção de scripts em Python para resolução de problemas, desenvolvimento de consultas SQL para análise de dados e criação de interfaces web simples com HTML, CSS e JavaScript. Também venho explorando conceitos de estruturação de sistemas e boas práticas de código. Estou evoluindo para atuar como desenvolvedora backend júnior, com foco em Python e construção de APIs, manipulação de dados e desenvolvimento de sistemas simples e escaláveis.
+
+Busco aprofundar conhecimentos em arquitetura de aplicações, boas práticas de desenvolvimento e integração entre sistemas.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## O que já consigo desenvolver
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  </a>
+- Scripts em Python para automação, lógica e manipulação de dados  
+- Consultas SQL para filtragem, organização e análise de informações  
+- Aplicações web básicas utilizando HTML, CSS e JavaScript  
+- Solução de problemas lógicos com foco em clareza e eficiência  
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>
+---
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
+## Habilidades em evolução
 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
+- Estruturação de APIs simples em Python (Flask / FastAPI – em estudo)  
+- Organização de projetos com boas práticas (separação de lógica, módulos)  
+- Integração entre frontend e backend  
+- Uso de versionamento com Git e GitHub de forma consistente  
+- Melhoria contínua em algoritmos e estruturas de dados
+- 
+---
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
+## Tecnologias
 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  </a>
+Python • JavaScript • SQL • HTML • CSS • C# (.NET básico) • Git/GitHub
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=polianadsouza&show_icons=true&hide=issues" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polianadsouza&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=polianadsouza" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Contato
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=polianadsouza&show_icons=true&layout=compact" />
-</p>
-
----
-
-## 🌐 Conecte-se comigo
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/poliana-dsouza/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://instagram.com/poliana_dsouza" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-</p>
-
+LinkedIn • Instagram
