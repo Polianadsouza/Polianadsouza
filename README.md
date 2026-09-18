@@ -5,7 +5,7 @@
 
 ## Perfil
 
- Tenho como objetivo atuar como desenvolvedora backend júnior, com foco em Python, construção de APIs, manipulação de dados e desenvolvimento de sistemas simples e escaláveis. Busco evoluir em arquitetura de aplicações e boas práticas de desenvolvimento. Tenho experiência prática com lógica de programação, manipulação de dados e construção de pequenas aplicações funcionais. Também utilizo JavaScript, HTML e CSS em projetos web  para entender a estrutura de aplicações completas, além de trabalhar com SQL na criação de consultas para organização e análise de dados. 
+ Tenho como objetivo atuar como desenvolvedora backend júnior, com foco em Python, construção de APIs, manipulação de dados e desenvolvimento de sistemas simples e escaláveis. Busco evoluir em arquitetura de aplicações e boas práticas de desenvolvimento. Tenho experiência prática com manipulação de dados e construção de aplicações funcionais. Também utilizo JavaScript, HTML e CSS em projetos web para entender a estrutura de aplicações completas, além de trabalhar com SQL na criação de consultas para organização e análise de dados. 
 
 ---
 
