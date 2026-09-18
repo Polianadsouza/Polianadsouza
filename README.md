@@ -22,13 +22,17 @@
 ## Tecnologias
 
 Python • JavaScript • SQL • HTML • CSS • Git/GitHub
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polianadsouza&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
 
 ---
 ## 📊 GitHub
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=polianadsouza&hide_border=true&theme=transparent" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Polianadsouza&show_icons=true&theme=transparent&hide_border=true" />
 </p>
+
 
 ## Contato
 
