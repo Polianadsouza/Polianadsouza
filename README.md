@@ -1,38 +1,36 @@
-<h2 align="center">Poliana Souza</h2>
-<h4 align="center">Desenvolvedora | Python • Backend • JavaScript • SQL</h4>
+<h2 align="center">Poliana Souza</h2> <h4 align="center"> Backend • Python • APIs • SQL</h4> <p align="center"> <a href="https://www.linkedin.com/in/poliana-dsouza/"> </a> <a href="https://github.com/Polianadsouza"> </a> </p>
 
 ---
 
 ## Perfil
 
- Tenho como objetivo atuar como desenvolvedora backend júnior, com foco em Python, construção de APIs, manipulação de dados e desenvolvimento de sistemas simples e escaláveis. Busco evoluir em arquitetura de aplicações e boas práticas de desenvolvimento. Tenho experiência prática com manipulação de dados e construção de aplicações funcionais. Também utilizo JavaScript, HTML e CSS em projetos web para entender a estrutura de aplicações completas, além de trabalhar com SQL na criação de consultas para organização e análise de dados. 
+Sou estudante de desenvolvimento de software, com foco na construção de aplicações backend utilizando Python.
+Atualmente, estou desenvolvendo projetos para colocar em prática conceitos de desenvolvimento de APIs, bancos de dados, manipulação de dados e integração entre sistemas.
+Tenho estudado também JavaScript, HTML e CSS para ampliar minha compreensão sobre o desenvolvimento de aplicações web e a comunicação entre frontend e backend.
 
 ---
 
 ## Habilidades em evolução
 
-- Desenvolvimento de APIs simples com Python (Flask / FastAPI – em estudo)  
-- Organização de projetos com boas práticas de código  
-- Integração entre frontend e backend  
-- Uso consistente de Git e GitHub  
-- Evolução em algoritmos e estruturas de dados  
+- Desenvolvimento backend com Python
+- Construção e consumo de APIs REST
+- SQL e modelagem de dados  
+- Desenvolvimento de aplicações web  
+- Testes e qualidade de software
+- Fundamentos de arquitetura de software  
 
 ---
 
 ## Tecnologias
 
-Python • JavaScript • SQL • HTML • CSS • Git/GitHub
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polianadsouza&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
+Python • JavaScript • SQL • Git • GitHub • HTML • CSS
 
 ---
 ## 📊 GitHub
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Polianadsouza&show_icons=true&theme=transparent&hide_border=true" />
-</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=polianadsouza&hide_border=true&theme=transparent" />
+</p>
 
 ## Contato
 
