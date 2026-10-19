@@ -1,6 +1,5 @@
 <h2 align="center">Poliana Souza</h2> <h4 align="center">
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/poliana-dsouza/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -10,7 +9,6 @@
   </a>
 </p>
 
----  
   Software Engineering | Backend Development | Python | SQL | APIs</h4> <p align="left"> <a href="https://www.linkedin.com/in/poliana-dsouza/"> </a> <a href="https://github.com/Polianadsouza"> </a> </p>
 
 ---
