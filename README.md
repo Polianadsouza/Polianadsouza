@@ -9,7 +9,7 @@
   </a>
 </p>
 
-  Software Engineering | Backend Development | Python | SQL | APIs</h4> <p align="left"> <a href="https://www.linkedin.com/in/poliana-dsouza/"> </a> <a href="https://github.com/Polianadsouza"> </a> </p>
+  Software Engineering | Backend Development | Python | SQL </h4> <p align="left"> <a href="https://www.linkedin.com/in/poliana-dsouza/"> </a> <a href="https://github.com/Polianadsouza"> </a> </p>
 
 ---
 
@@ -36,8 +36,6 @@ This profile brings together my projects and technical explorations in software 
 
 ---
 ## 📊 GitHub Status
-
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=polianadsouza&hide_border=true&theme=transparent" />
