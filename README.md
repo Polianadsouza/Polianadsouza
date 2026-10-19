@@ -11,8 +11,6 @@
 
   Software Engineering | Backend Development | Python | SQL </h4> <p align="left"> <a href="https://www.linkedin.com/in/poliana-dsouza/"> </a> <a href="https://github.com/Polianadsouza"> </a> </p>
 
----
-
 ## About me
 
 Technology professional focused on software engineering and backend development, with an interest in building applications, designing relational databases, and integrating systems.
