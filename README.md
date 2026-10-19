@@ -11,31 +11,28 @@
 </p>
 
 ---  
-  Engenharia de Software • Backend • Python • APIs • SQL</h4> <p align="left"> <a href="https://www.linkedin.com/in/poliana-dsouza/"> </a> <a href="https://github.com/Polianadsouza"> </a> </p>
+  Software Engineering | Backend Development | Python | SQL | APIs</h4> <p align="left"> <a href="https://www.linkedin.com/in/poliana-dsouza/"> </a> <a href="https://github.com/Polianadsouza"> </a> </p>
 
 ---
 
-## Perfil
+## About me
 
-Estou iniciando minha trajetória em desenvolvimento de software, com foco na construção de aplicações backend utilizando Python. Atualmente, desenvolvo projetos para aplicar na prática conceitos de desenvolvimento de APIs, bancos de dados, manipulação de dados e integração entre sistemas. Em paralelo, estudo JavaScript, HTML e CSS para ampliar minha compreensão sobre o desenvolvimento de aplicações web e a integração entre frontend e backend.
+Technology professional focused on software engineering and backend development, with an interest in building applications, designing relational databases, and integrating systems.
 
+My technical interests include Python, REST APIs, SQL, and software architecture. I enjoy exploring how applications work behind the scenes, how data flows between systems, and how well-structured code can solve practical problems.
 
----
-
-## Habilidades
-
-- Desenvolvimento backend com Python
-- Construção e consumo de APIs REST
-- SQL e modelagem de dados  
-- Desenvolvimento de aplicações web  
-- Testes e qualidade de software
-- Fundamentos de arquitetura de software  
+This profile brings together my projects and technical explorations in software development, databases, and backend engineering.
 
 ---
 
-## Tecnologias
+## Tech Stack
 
-C# • JavaScript • SQL • Git • GitHub • HTML • CSS
+- **Languages:** Python, SQL, C#, and JavaScript.
+- **Databases:** Microsoft SQL Server, PostgreSQL, and relational database modeling.
+- **Backend Development:** Python, REST APIs, and system integration.
+- **Data & Analytics:** Power BI, Excel, Data Warehousing, and Lakehouse Architecture.
+- **Web Development:** HTML and CSS.
+- **Tools & Version Control:** Git and GitHub.
 
 ---
 
