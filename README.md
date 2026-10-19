@@ -32,7 +32,6 @@ This profile brings together my projects and technical explorations in software 
 
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=polianadsouza&theme=default)
 
----
 ## 📊 GitHub Status
 
 <p align="center">
