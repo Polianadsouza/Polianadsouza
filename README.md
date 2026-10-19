@@ -23,8 +23,6 @@ My technical interests include Python, REST APIs, SQL, and software architecture
 
 This profile brings together my projects and technical explorations in software development, databases, and backend engineering.
 
----
-
 ## Tech Stack
 
 - **Languages:** Python, SQL, C#, and JavaScript.
